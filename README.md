@@ -66,7 +66,7 @@ Code utilized for this analysis can be found in the file titled "pythonANDbeyond
 ## **Installation Instructions**
 Code utilized for this analysis can be found in the file titled "pythonANDbeyond_Project4.ipynb" within the main branch on our GitHub "Project4" repo.
 
-## ** Usage**
+## **Usage**
 Can Git Clone all files from the 'Project4' repo.
 
 ## **Credits**
