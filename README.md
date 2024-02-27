@@ -1,4 +1,4 @@
-# **Project 4**
+# **Project 4: Building a Content-Based Movie Recommendation System**
 
 Tye Elliott
 
@@ -9,9 +9,6 @@ Mallorie Daubenspeck
 Jonathan Gutierrez-Lozano 
 
 Kirby Smith
-
-
-# **Building a Content-Based Movie Recommendation System**
 
 # **Project Description**
 
